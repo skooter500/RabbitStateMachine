@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StateMachineDemo\StateMachine.cs">
+    <Files>
+      <File FileName="StateMachineDemo\Main.cs" Line="12" Column="34" />
+      <File FileName="StateMachineDemo\Rabbit.cs" Line="25" Column="35" />
+      <File FileName="StateMachineDemo\State.cs" Line="15" Column="16" />
+      <File FileName="StateMachineDemo\StateMachine.cs" Line="19" Column="10" />
+      <File FileName="StateMachineDemo\HoppingState.cs" Line="43" Column="64" />
+      <File FileName="StateMachineDemo\PooingState.cs" Line="26" Column="10" />
+      <File FileName="StateMachineDemo\EatingState.cs" Line="28" Column="56" />
+      <File FileName="StateMachineDemo\SleepingState.cs" Line="32" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Node name="StateMachineDemo" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
